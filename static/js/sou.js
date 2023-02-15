@@ -19,27 +19,6 @@ $(document).ready(function() {
         },
         '3':{
             id      :3,
-            title   :"多吉",
-            url     :"https://www.dogedoge.com/results",
-            name    :"q",
-            img     :"./static/icon/doge_ico.png",
-        },
-        '4':{
-            id      :4,
-            title   :"秘迹",
-            url     :"https://mijisou.com",
-            name    :"q",
-            img     :"./static/icon/mijisou.png",
-        },
-        '5':{
-            id      :5,
-            title   :"seeres*",
-            url     :"https://seeres.com/search",
-            name    :"q",
-            img     :"./static/icon/seeres.png",
-        },
-        '6':{
-            id      :6,
             title   :"Google",
             url     :"https://www.google.com/search",
             name    :"q",
