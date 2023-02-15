@@ -1,10 +1,4 @@
-/*!
- * JavaScript Cookie v2.2.1
- * https://github.com/js-cookie/js-cookie
- *
- * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
- * Released under the MIT license
- */
+
 ;(function (factory) {
 	var registeredInModuleLoader;
 	if (typeof define === 'function' && define.amd) {
