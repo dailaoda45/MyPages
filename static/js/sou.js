@@ -52,29 +52,10 @@ $(document).ready(function() {
     var quick_list_preinstall = {
         '1':{
             title   :"Blog",
-            url     :"https://dailaoda45.github.i0/",
-            img     :"https://i.holger.net.cn/static/images/avatar-300x300.webp",
+            url     :"https://dailaoda45.github.io/",
+            img     :"./static/icon/github.ico",
             explain :"My Blog",
         },
-        // '2':{
-        //     title   :"SNS",
-        //     url     :"https://sns.holger.net.cn",
-        //     img     :"https://sns.holger.net.cn/favicon.ico",
-        //     explain :"Notre Monde",
-
-        // },
-        // '3':{
-        //     title   :"V2EX",
-        //     url     :"https://www.v2ex.com/",
-        //     img     :"./static/icon/v2ex.png",
-        //     explain :"V2EX",
-        // },
-        // '4':{
-        //     title   :"Steam",
-        //     url     :"https://store.steampowered.com/",
-        //     img     :"./static/icon/steam.ico",
-        //     explain :"Steam",
-        // },
         '2':{
             title   :"GitHub",
             url     :"https://github.com/",
